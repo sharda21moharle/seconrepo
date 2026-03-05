@@ -11,7 +11,7 @@ pipeline {
             steps {
                 echo "Cloning application code from GitHub..."
                 git branch: 'main',
-                url: 'https://github.com/your-repo/static-website.git'
+                url: 'https://github.com/sharda21moharle/seconrepo.git'
             }
         }
 
